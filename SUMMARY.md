@@ -1,0 +1,3 @@
+# Summary
+
+* [Constitution](README.md)
